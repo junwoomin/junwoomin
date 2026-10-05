@@ -25,7 +25,7 @@
   **Woomin Jun**, Minjun Son, Jisang Yoo, Sungjin Lee · *Sensors*, 23(24), 9729, 2023.  
   인지 정확도, 지연시간, 모델 크기를 함께 고려한 멀티태스크 구성과 최적화를 연구했습니다.
 
-† 공동 제1저자.
+**† 공동 저자(동등 기여):** Yechan Park와 Woomin Jun은 이 연구에 동등하게 기여했습니다.
 
 ## 대표 프로젝트
 

@@ -25,7 +25,7 @@ I work on efficient perception, simulation and data generation, driving policies
   **Woomin Jun**, Minjun Son, Jisang Yoo, Sungjin Lee · *Sensors*, 23(24), 9729, 2023.  
   Multi-task configuration and optimization balancing perception accuracy, latency, and model size.
 
-† Equal contribution.
+**† Equal contribution:** Yechan Park and Woomin Jun contributed equally to this work.
 
 ## Selected Projects
 
