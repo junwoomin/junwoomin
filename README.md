@@ -15,8 +15,7 @@ I work on efficient perception, simulation and data generation, driving policies
 
 - **[SAFE-Q: Safety-Aware End-to-End Driving Using CrossQ Deep Reinforcement Learning](https://doi.org/10.1109/JSEN.2025.3633658)**  
   Yechan Park†, **Woomin Jun†**, Sungjin Lee · *IEEE Sensors Journal*, 26(2), 2848–2855, 2026.  
-  Multi-task perception, safety-aware local waypoints, and CrossQ-based driving control evaluated in CARLA.  
-  [Training code](https://github.com/SungjinDavidLee/AGILEQ-Training) · [Evaluation code](https://github.com/SungjinDavidLee/AGILEQ-Evaluation)
+  Multi-task perception, safety-aware local waypoints, and CrossQ-based driving control evaluated in CARLA.
 
 - **[Synthetic Data Enhancement and Network Compression Technology of Monocular Depth Estimation for Real-Time Autonomous Driving System](https://doi.org/10.3390/s24134205)**  
   **Woomin Jun**, Jisang Yoo, Sungjin Lee · *Sensors*, 24(13), 4205, 2024.  

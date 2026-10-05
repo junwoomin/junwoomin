@@ -15,8 +15,7 @@
 
 - **[SAFE-Q: Safety-Aware End-to-End Driving Using CrossQ Deep Reinforcement Learning](https://doi.org/10.1109/JSEN.2025.3633658)**  
   Yechan Park†, **Woomin Jun†**, Sungjin Lee · *IEEE Sensors Journal*, 26(2), 2848–2855, 2026.  
-  멀티태스크 인지, 안전을 고려한 지역 경유점, CrossQ 기반 주행 제어를 통합하고 CARLA에서 평가했습니다.  
-  [학습 코드](https://github.com/SungjinDavidLee/AGILEQ-Training) · [평가 코드](https://github.com/SungjinDavidLee/AGILEQ-Evaluation)
+  멀티태스크 인지, 안전을 고려한 지역 경유점, CrossQ 기반 주행 제어를 통합하고 CARLA에서 평가했습니다.
 
 - **[Synthetic Data Enhancement and Network Compression Technology of Monocular Depth Estimation for Real-Time Autonomous Driving System](https://doi.org/10.3390/s24134205)**  
   **Woomin Jun**, Jisang Yoo, Sungjin Lee · *Sensors*, 24(13), 4205, 2024.  
