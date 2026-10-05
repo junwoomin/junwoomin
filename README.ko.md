@@ -15,7 +15,8 @@
 
 - **[SAFE-Q: Safety-Aware End-to-End Driving Using CrossQ Deep Reinforcement Learning](https://doi.org/10.1109/JSEN.2025.3633658)**  
   Yechan Park†, **Woomin Jun†**, Sungjin Lee · *IEEE Sensors Journal*, 26(2), 2848–2855, 2026.  
-  멀티태스크 인지, 안전을 고려한 지역 경유점, CrossQ 기반 주행 제어를 통합하고 CARLA에서 평가했습니다.
+  멀티태스크 인지, 안전을 고려한 지역 경유점, CrossQ 기반 주행 제어를 통합하고 CARLA에서 평가했습니다.  
+  **† 공동 저자(동등 기여):** Yechan Park와 Woomin Jun은 이 연구에 동등하게 기여했습니다.
 
 - **[Synthetic Data Enhancement and Network Compression Technology of Monocular Depth Estimation for Real-Time Autonomous Driving System](https://doi.org/10.3390/s24134205)**  
   **Woomin Jun**, Jisang Yoo, Sungjin Lee · *Sensors*, 24(13), 4205, 2024.  
@@ -24,8 +25,6 @@
 - **[Optimal Configuration of Multi-Task Learning for Autonomous Driving](https://doi.org/10.3390/s23249729)**  
   **Woomin Jun**, Minjun Son, Jisang Yoo, Sungjin Lee · *Sensors*, 23(24), 9729, 2023.  
   인지 정확도, 지연시간, 모델 크기를 함께 고려한 멀티태스크 구성과 최적화를 연구했습니다.
-
-**† 공동 저자(동등 기여):** Yechan Park와 Woomin Jun은 이 연구에 동등하게 기여했습니다.
 
 ## 대표 프로젝트
 

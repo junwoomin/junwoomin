@@ -15,7 +15,8 @@ I work on efficient perception, simulation and data generation, driving policies
 
 - **[SAFE-Q: Safety-Aware End-to-End Driving Using CrossQ Deep Reinforcement Learning](https://doi.org/10.1109/JSEN.2025.3633658)**  
   Yechan Park†, **Woomin Jun†**, Sungjin Lee · *IEEE Sensors Journal*, 26(2), 2848–2855, 2026.  
-  Multi-task perception, safety-aware local waypoints, and CrossQ-based driving control evaluated in CARLA.
+  Multi-task perception, safety-aware local waypoints, and CrossQ-based driving control evaluated in CARLA.  
+  **† Equal contribution:** Yechan Park and Woomin Jun contributed equally to this work.
 
 - **[Synthetic Data Enhancement and Network Compression Technology of Monocular Depth Estimation for Real-Time Autonomous Driving System](https://doi.org/10.3390/s24134205)**  
   **Woomin Jun**, Jisang Yoo, Sungjin Lee · *Sensors*, 24(13), 4205, 2024.  
@@ -24,8 +25,6 @@ I work on efficient perception, simulation and data generation, driving policies
 - **[Optimal Configuration of Multi-Task Learning for Autonomous Driving](https://doi.org/10.3390/s23249729)**  
   **Woomin Jun**, Minjun Son, Jisang Yoo, Sungjin Lee · *Sensors*, 23(24), 9729, 2023.  
   Multi-task configuration and optimization balancing perception accuracy, latency, and model size.
-
-**† Equal contribution:** Yechan Park and Woomin Jun contributed equally to this work.
 
 ## Selected Projects
 
