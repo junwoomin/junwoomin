@@ -1,15 +1,15 @@
 # 전우민 · Woomin Jun
 
-[English](README.md) · **한국어**
+[English](../README.md) · **한국어**
 
 자율주행 AI · BEV 인지 · 강화학습 · NPU 커널 최적화
 
 효율적인 인지 모델, 시뮬레이션과 데이터 생성, 주행 정책, 자원이 제한된 하드웨어에서의 배포를 연구합니다.
 
-**포트폴리오** · [English](https://github.com/junwoomin/portfolio) · [한국어](https://github.com/junwoomin/portfolio/blob/main/README_ko.md)  
+**포트폴리오** · [English](https://github.com/junwoomin/portfolio) · [한국어](https://github.com/junwoomin/portfolio/blob/main/docs/README_ko.md)  
 **이메일** · [kpwoomin@gmail.com](mailto:kpwoomin@gmail.com)
 
-[![LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/%EC%9A%B0%EB%AF%BC-%EC%A0%84-61277b372/)
+[![LinkedIn](../assets/linkedin.svg)](https://www.linkedin.com/in/%EC%9A%B0%EB%AF%BC-%EC%A0%84-61277b372/)
 
 ## 대표 논문
 
@@ -43,4 +43,4 @@ SDV는 KETI에서 수석연구원의 제안을 계기로 약 3개월 동안 독�
 - **LRS:** 다중 차량 데이터 추출 시 발생하는 틱당 처리 지연을 줄이고, 정책 학습 성능을 개선하며, 시뮬레이션 및 데이터 수집 처리량을 측정합니다.
 - **SDV:** 기본 실험 흐름을 재현 가능하게 정비하고, LRS 및 FMTC CARLA 지도와의 연동을 강화합니다. 실제 데이터나 다른 시뮬레이터의 스타일을 활용하는 UniScene 기반 아이디어를 참고해 스타일 전이와 데이터 증강을 탐색하고, 후속으로 CARLA 검증과 강건성 평가를 진행할 계획입니다.
 
-[더 많은 프로젝트, 시연 및 연구 배경 →](https://github.com/junwoomin/portfolio/blob/main/README_ko.md)
+[더 많은 프로젝트, 시연 및 연구 배경 →](https://github.com/junwoomin/portfolio/blob/main/docs/README_ko.md)

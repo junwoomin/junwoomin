@@ -1,12 +1,12 @@
 # Woomin Jun
 
-**English** · [한국어](README.ko.md)
+**English** · [한국어](docs/README.ko.md)
 
 Autonomous Driving AI · BEV Perception · Reinforcement Learning · NPU Kernel Optimization
 
 I work on efficient perception, simulation and data generation, driving policies, and deployment on constrained hardware.
 
-**Portfolio** · [English](https://github.com/junwoomin/portfolio) · [한국어](https://github.com/junwoomin/portfolio/blob/main/README_ko.md)  
+**Portfolio** · [English](https://github.com/junwoomin/portfolio) · [한국어](https://github.com/junwoomin/portfolio/blob/main/docs/README_ko.md)  
 **Email** · [kpwoomin@gmail.com](mailto:kpwoomin@gmail.com)
 
 [![LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/%EC%9A%B0%EB%AF%BC-%EC%A0%84-61277b372/)
