@@ -23,6 +23,14 @@ I work on efficient perception, simulation and data generation, driving policies
   Multi-task perception, safety-aware local waypoints, and CrossQ-based driving control evaluated in CARLA.  
   **† Equal contribution:** Yechan Park and Woomin Jun contributed equally to this work.
 
+- **[A Comparative Study and Optimization of Camera-Based BEV Segmentation for Real-Time Autonomous Driving](https://doi.org/10.3390/s25072300)**  
+  **Woomin Jun**, Sungjin Lee · *Sensors*, 25(7), 2300, 2025.  
+  Implemented camera-based BEV segmentation models and evaluated FP16 compression and inference on NVIDIA Jetson AGX Orin.
+
+- **[Performance Analysis of Cam-Lidar Fusion-Based BEV Segmentation in Weather and Day/Night Environments](https://doi.org/10.1109/ICCE63647.2025.10929954)**  
+  **Woomin Jun**, Pusik Park, Sungjin Lee · *IEEE ICCE*, 2025.  
+  Compared camera-only and camera–LiDAR fusion BEV segmentation across weather and day/night conditions.
+
 - **[Synthetic Data Enhancement and Network Compression Technology of Monocular Depth Estimation for Real-Time Autonomous Driving System](https://doi.org/10.3390/s24134205)**  
   **Woomin Jun**, Jisang Yoo, Sungjin Lee · *Sensors*, 24(13), 4205, 2024.  
   Synthetic data augmentation and model compression for monocular depth estimation, with deployment evaluation on NVIDIA Jetson AGX Orin.
