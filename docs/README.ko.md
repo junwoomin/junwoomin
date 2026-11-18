@@ -23,6 +23,14 @@
   멀티태스크 인지, 안전을 고려한 지역 경유점, CrossQ 기반 주행 제어를 통합하고 CARLA에서 평가했습니다.  
   **† 공동 저자(동등 기여):** Yechan Park와 Woomin Jun은 이 연구에 동등하게 기여했습니다.
 
+- **[A Comparative Study and Optimization of Camera-Based BEV Segmentation for Real-Time Autonomous Driving](https://doi.org/10.3390/s25072300)**  
+  **Woomin Jun**, Sungjin Lee · *Sensors*, 25(7), 2300, 2025.  
+  카메라 기반 BEV 분할 모델을 구현하고 FP16 경량화와 NVIDIA Jetson AGX Orin 추론 성능을 평가했습니다.
+
+- **[Performance Analysis of Cam-Lidar Fusion-Based BEV Segmentation in Weather and Day/Night Environments](https://doi.org/10.1109/ICCE63647.2025.10929954)**  
+  **Woomin Jun**, Pusik Park, Sungjin Lee · *IEEE ICCE*, 2025.  
+  날씨와 주야간 조건별로 카메라 단독과 카메라·LiDAR 융합의 BEV 분할 성능을 비교했습니다.
+
 - **[Synthetic Data Enhancement and Network Compression Technology of Monocular Depth Estimation for Real-Time Autonomous Driving System](https://doi.org/10.3390/s24134205)**  
   **Woomin Jun**, Jisang Yoo, Sungjin Lee · *Sensors*, 24(13), 4205, 2024.  
   단안 깊이 추정을 위한 합성 데이터 증강과 모델 압축을 연구하고, NVIDIA Jetson AGX Orin에서 배포 성능을 평가했습니다.
