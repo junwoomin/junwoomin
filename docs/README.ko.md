@@ -15,6 +15,7 @@
 
 - **AGILE-Q: Attention-Based CrossQ Control with Waypoint Guidance for Camera-Only End-to-End Driving**  
   Yechan Park†, **Woomin Jun†**, Sungjin Lee · *Robotics and Autonomous Systems*, 2026년 11월 17일 게재 확정.  
+  카메라 데이터 수집과 BEV 정답 라벨 생성부터 멀티카메라 BEV 분할 및 전방 카메라 기반 신호등 인지 모델의 개발·학습·검증까지 인지 파트 전반을 담당했습니다. CARLA 시뮬레이션 환경 구축과 주행 실험도 주도했습니다.  
   **† 공동 제1저자(동등 기여):** Yechan Park와 Woomin Jun은 이 연구에 동등하게 기여했습니다.
 
 - **[SAFE-Q: Safety-Aware End-to-End Driving Using CrossQ Deep Reinforcement Learning](https://doi.org/10.1109/JSEN.2025.3633658)**  
