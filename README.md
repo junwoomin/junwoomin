@@ -13,6 +13,10 @@ I work on efficient perception, simulation and data generation, driving policies
 
 ## Selected Publications
 
+- **AGILE-Q: Attention-Based CrossQ Control with Waypoint Guidance for Camera-Only End-to-End Driving**  
+  Yechan Park†, **Woomin Jun†**, Sungjin Lee · *Robotics and Autonomous Systems*, accepted November 17, 2026.  
+  **† Equal contribution:** Yechan Park and Woomin Jun contributed equally to this work.
+
 - **[SAFE-Q: Safety-Aware End-to-End Driving Using CrossQ Deep Reinforcement Learning](https://doi.org/10.1109/JSEN.2025.3633658)**  
   Yechan Park†, **Woomin Jun†**, Sungjin Lee · *IEEE Sensors Journal*, 26(2), 2848–2855, 2026.  
   Multi-task perception, safety-aware local waypoints, and CrossQ-based driving control evaluated in CARLA.  
